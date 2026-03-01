@@ -1,5 +1,8 @@
 # 警情数据集文本分类
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![fastText](https://img.shields.io/badge/fastText-Meta-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 基于 fastText 算法对警情报告文本进行自动分类。警情数据包含各类报警记录（盗窃、诈骗、交通事故、火灾等），通过自然语言处理技术对警情描述进行预处理和特征提取，训练文本分类模型实现业务类别的自动识别。同时提供地区分布可视化分析。
 
 ## 痛点与目的
